@@ -6,7 +6,7 @@ const Header = () => {
      <a className="brand" href="https://ankitanaik471.github.io/react-basics/">AN</a>
 
      <div>
-        <ul>
+        <ul className='m-0'>
             <li><a href="https://ankitanaik471.github.io/react-basics/">About</a></li>
             <li><a href="https://ankitanaik471.github.io/react-basics/">Skills</a></li>
         </ul>

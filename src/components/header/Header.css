@@ -3,13 +3,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgb(2, 0, 36);
+  /* background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(84, 9, 121, 1) 17%,
     rgba(0, 212, 255, 1) 100%
-  );
+  ); */
 }
 
 .brand {
@@ -28,7 +28,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: black;
+  color: #fff;
   font-size: 18px;
   padding-right: 10px;
 }

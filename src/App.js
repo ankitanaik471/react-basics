@@ -1,15 +1,21 @@
 
 import './App.css';
 import logoImage from './Images/logo.svg';
+
 import Header from './components/header/Header';
+import About from './components/about/About';
 
 function App() {
   return (
   <div className='App'>
-    <Header></Header>
+    <Header />
+    <About />
+
+    <div className='d-none'>
     <h1>Hello, This is my Application</h1>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
+    <p>hello, I have 2+ experience in UI designing. i had created 10 plus website with responsive. also i have knowledge of CSS preprocessor language s like scss less. i have keen knowledge of following technology bootstrap, material Design, html, CSS, scss, WordPress customization etc. this is all about my experience :-)</p>
     <img src={logoImage} alt="demo" className="App-logo"></img>
+    </div>
   </div>
   )
 }
