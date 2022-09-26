@@ -10,7 +10,10 @@ function App() {
   <div className='App'>
     <Header />
     <About />
-
+    
+    <a href={logoImage} download>
+      <img src={logoImage} alt="W3Schools" width="104" height="142" />
+    </a>
     <div className='d-none'>
     <h1>Hello, This is my Application</h1>
     <p>hello, I have 2+ experience in UI designing. i had created 10 plus website with responsive. also i have knowledge of CSS preprocessor language s like scss less. i have keen knowledge of following technology bootstrap, material Design, html, CSS, scss, WordPress customization etc. this is all about my experience :-)</p>
