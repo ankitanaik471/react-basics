@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react-basics/static/css/main.9c4a2b94.css",
-    "main.js": "/react-basics/static/js/main.b8baa057.js",
+    "main.css": "/react-basics/static/css/main.a342ebee.css",
+    "main.js": "/react-basics/static/js/main.9a822de2.js",
     "static/js/787.cd03f6bf.chunk.js": "/react-basics/static/js/787.cd03f6bf.chunk.js",
     "static/media/ankita.JPG": "/react-basics/static/media/ankita.383dab1f97c0eea76c58.JPG",
+    "static/media/Ankita_Naik_RESUME_UPDATED.pdf": "/react-basics/static/media/Ankita_Naik_RESUME_UPDATED.49c70de2c6cb590ab174.pdf",
     "static/media/logo.svg": "/react-basics/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-basics/index.html",
-    "main.9c4a2b94.css.map": "/react-basics/static/css/main.9c4a2b94.css.map",
-    "main.b8baa057.js.map": "/react-basics/static/js/main.b8baa057.js.map",
+    "main.a342ebee.css.map": "/react-basics/static/css/main.a342ebee.css.map",
+    "main.9a822de2.js.map": "/react-basics/static/js/main.9a822de2.js.map",
     "787.cd03f6bf.chunk.js.map": "/react-basics/static/js/787.cd03f6bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c4a2b94.css",
-    "static/js/main.b8baa057.js"
+    "static/css/main.a342ebee.css",
+    "static/js/main.9a822de2.js"
   ]
 }
