@@ -5,6 +5,7 @@ import logoImage from './Images/logo.svg';
 import Header from './components/header/Header';
 import About from './components/about/About';
 import Footer from './components/footer/Footer';
+import Skills from './components/skills/Skills';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Header />
     <hr className='m-0' />
     <About />
+    <Skills />
     <Footer />
     <div className='d-none'>
     <h1>Hello, This is my Application</h1>
