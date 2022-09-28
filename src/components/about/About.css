@@ -1,7 +1,3 @@
-.about-wrapper {
-  height: 100vh;
-}
-
 .about-wrapper img {
   height: 200px;
   width: 200px;
@@ -16,4 +12,14 @@
 .about-wrapper .hero-text-second {
   text-shadow: 3px 1px blue;
   text-decoration: overline;
+}
+
+.about-wrapper {
+  height: 100vh;
+}
+
+@media (max-width: 575.98px) {
+  .about-wrapper {
+    height: auto;
+  }
 }
