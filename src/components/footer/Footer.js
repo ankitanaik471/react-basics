@@ -11,7 +11,7 @@ const Footer = () => {
                     <span><a className='fs-4 text-dark' href='mailto:ankitanaik471@gmail.com' alt='Mail'><i className="fa-solid fa-envelope"></i></a></span>
                 </div>
                 <div className='py-3'>
-                    <span className='text-dark'>Copyrights @2022 Ankita Naik.All rights reserved.</span>
+                    <span className='text-dark fw-bold'>Copyrights @2022 Ankita Naik.All rights reserved.</span>
                 </div>
             </div>
             
